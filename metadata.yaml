@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33890#On-the-Kentucky-Frontier--A-Story-of-the-Fighting-Pioneers-of-the-West
 gutenberg_issued: '2010-10-29'
 gutenberg_type: Text
 identifiers:
