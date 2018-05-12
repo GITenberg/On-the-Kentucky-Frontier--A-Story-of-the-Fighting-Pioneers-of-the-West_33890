@@ -1,0 +1,36 @@
+_repo: On-the-Kentucky-Frontier--A-Story-of-the-Fighting-Pioneers-of-the-West_33890
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2010-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33890'
+  lccn: '00004062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+title: 'On the Kentucky Frontier: A Story of the Fighting Pioneers of the West'
+url: http://www.gutenberg.org/ebooks/33890
